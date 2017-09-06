@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstAppl</string>
+    <string name="question">Do you want to learn Android?</string>
+    <string name="button1">Push me</string>
+
+    <string name="answer">Hello EPAM!!!</string>
+
+
+</resources>
